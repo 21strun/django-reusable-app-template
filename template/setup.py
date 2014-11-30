@@ -1,4 +1,6 @@
-# -*- encoding: utf-8 -*-
+#!/usr/bin/env python
+# coding: utf-8
+
 """
 Python setup file for the VAR_PACKAGE_NAME app.
 
@@ -37,7 +39,7 @@ dev_requires = [
 ]
 
 install_requires = [
-    'django',
+    'django>=1.6.1',
 ]
 
 

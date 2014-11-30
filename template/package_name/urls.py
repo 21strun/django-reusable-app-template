@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 """URLs for the VAR_PACKAGE_NAME app."""
 # from django.conf.urls import patterns, url
 

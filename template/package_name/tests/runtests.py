@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# coding: utf-8
+
 """
 This script is a trick to setup a fake Django environment, since this reusable
 app will be developed and tested outside any specifiv Django project.

@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 """Admin classes for the VAR_PACKAGE_NAME app."""
 # from django.contrib import admin
 

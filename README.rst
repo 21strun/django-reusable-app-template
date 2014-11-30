@@ -1,19 +1,15 @@
-Django Reusable App Template
-============================
+21strun's Django Reusable App Template
+======================================
 
-This repository aims to help you to kickstart new reusable Django apps within
-a few minutes.
+This repository is a fork of `bitmazk/django-reusable-app-template 
+<https://github.com/bitmazk/django-reusable-app-template>`_ aims to help you to kickstart new reusable Django apps
+customized for 21strun company purposes within a few minutes.
 
-It was presented at PyCon Singapore 2013 for the first time, you can find the
-slides of the talk here: https://speakerdeck.com/mbrochh/writing-publishing-and-maintaining-reusable-django-apps
-
-A video of the talk can be found here: http://youtu.be/a4S1kTJfezA
-
-In order to kickstart your new reusable app, just do the following
+In order to kickstart your new reusable app customized for 21strun, just do the following
 
 .. code-block:: bash
 
-    git clone git://github.com/bitmazk/django-reusable-app-template.git your-app-name
+    git clone git://github.com/21strun/django-reusable-app-template.git your-app-name
     cd your-app-name
     nano init.sh
     # change all variables to your needs
@@ -50,8 +46,8 @@ Or you can initiate the database and preview your app in the browser
 The only URL that is hooked up will be the admin url, so you can open
 `localhost:8000/admin/`.
 
-Once you have implemented your app, you can publish it on the Python Package
-Index like so
+Once you have implemented your app, you may publish it on the Python Package
+Index like so - this step is **only for apps that should be published!**
 
 .. code-block:: bash
 

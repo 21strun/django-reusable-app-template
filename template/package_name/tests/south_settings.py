@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 """
 These settings are used by the ``manage.py`` command.
 
