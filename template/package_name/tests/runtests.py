@@ -7,8 +7,8 @@ app will be developed and tested outside any specifiv Django project.
 
 Via ``settings.configure`` you will be able to set all necessary settings
 for your app and run the tests as if you were calling ``./manage.py test``.
-
 """
+
 import re
 import sys
 

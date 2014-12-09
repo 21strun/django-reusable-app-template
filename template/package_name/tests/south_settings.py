@@ -10,8 +10,8 @@ need a persistant database.
 
 Unfortunately there seems to be an issue with either South or syncdb so that
 defining two routers ("default" and "south") does not work.
-
 """
+
 from distutils.version import StrictVersion
 
 import django

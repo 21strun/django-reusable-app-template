@@ -2,6 +2,7 @@
 # coding: utf-8
 
 """URLs to run the tests."""
+
 from django.conf.urls import patterns, include, url
 from django.contrib import admin
 

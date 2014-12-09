@@ -5,6 +5,7 @@ ipdb
 flake8
 fabric
 factory_boy
+model-mommy
 mock
 selenium
 south
